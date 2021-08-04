@@ -1,4 +1,4 @@
-package msthod;
+package method;
 
 public class ControlFlow {
 	public static void main(String[] args) {
